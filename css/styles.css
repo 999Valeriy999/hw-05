@@ -353,7 +353,8 @@ overflow: hidden;
 }
 
 .photo-portfolio:hover .overlay {
-  transform: translateY(0);}
+  transform: translateY(0);
+}
 
 .list-team {
   display: flex;
