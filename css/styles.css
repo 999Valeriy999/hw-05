@@ -331,29 +331,30 @@ background-color:  #F4F4FD;
 }
 
 .overlay {
-  padding: 40px 32px;
+  padding: 10px;
   background-color:  #4D5AE5;
   color: #F4F4FD;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
-  height: 300px;
+  height: 100%;
   transform: translateY(100%);
-  transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1); 
   overflow: auto;
 }
 
-.portfolio-show {  
-position: relative;
-overflow: hidden;
+.portfolio-show-wrapper {  
+  position: relative;
+  overflow: hidden;
 }
 
-.photo-portfolio:hover .overlay {
-  transform: translateY(0);
+.photo-portfolio:hover .overlay,
+.photo-portfolio:focus .overlay {
+  transform: translateY(0%);
 }
 
 .list-team {
