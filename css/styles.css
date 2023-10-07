@@ -573,7 +573,6 @@ background-color:  #F4F4FD;
   top: 50%;
   transform: translate(-50%, -50%);
   transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
-  background: #fcfcfc; 
   background-color:#FCFCFC; 
   width: 408px;
   min-height: 584px;
