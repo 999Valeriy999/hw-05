@@ -651,7 +651,7 @@ background-color:  #F4F4FD;
   font-size: 12px;
   line-height: 1.17;
   letter-spacing: 0.04em;
-  color: var(--color-light-slate);
+  color: #8e8f99;
 }
 
 .user-privacy-span {
@@ -669,17 +669,17 @@ background-color:  #F4F4FD;
 }
 
 .user-privacy-icon {
-  fill: var(--color-cloud);
+  fill: #f4f4fd;
 }
 
  input[type='checkbox']:checked + label span {
-  background-color: var(--color-ocean);
+  background-color: #404bbf;
   border: none;
-  fill: var(--color-cloud);
+  fill: #f4f4fd;
 }
 
 .user-privacy-link {
-  color: var(--color-iris);
+  color: #4d5ae5;
   text-decoration: underline;
 }
 
