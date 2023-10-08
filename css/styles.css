@@ -625,7 +625,7 @@ background-color:  #F4F4FD;
   width: 18px;
   height: 24px;
   left: 16px;
-  fill: #000080;
+
   top: 50%;
   transform: translateY(-50%);
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
