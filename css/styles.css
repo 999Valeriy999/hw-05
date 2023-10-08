@@ -692,6 +692,10 @@ background-color:  #F4F4FD;
   resize: none;
   transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
+ 
+textarea:focus {
+  border-color: #4D5AE5;
+}
 
 .checkbox-block {
   margin-bottom: 24px;
@@ -745,8 +749,7 @@ background-color:  #F4F4FD;
   background-color: #4D5AE5;
   border: none;
   border-radius: 4px;
-
-
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1); 
 }
 
 
