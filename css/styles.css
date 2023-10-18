@@ -15,6 +15,10 @@ body {
 h1,
 h2,
 h3,
+h4 {
+  margin: 0;
+}
+
 p {
   margin: 0;
 }
@@ -739,6 +743,7 @@ textarea:focus {
 
 .modal-button {
   display: block;
+  margin: 0 auto;
   min-width: 169px;
   height: 56px;
   font-weight: 500;
