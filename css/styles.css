@@ -19,9 +19,7 @@ h4 {
   margin: 0;
 }
 
-p {
-  margin: 0;
-}
+
 
 a {
   text-decoration: none;
@@ -98,7 +96,7 @@ button {
 .link .active {
   position: relative;}
   
-.link .active::after{
+.link .active::after {
   position: absolute;
   display: block;
   border-radius: 2px;
@@ -373,12 +371,11 @@ background-color:  #F4F4FD;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  margin: 0;
   margin-bottom: 8px;
 }
 
 .work-position {
-  margin: 0;
+  margin-bottom: 8px;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
