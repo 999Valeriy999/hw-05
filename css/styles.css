@@ -725,12 +725,12 @@ textarea:focus {
 }
 
 .user-privacy-icon {
-  fill: #F4F4FD;}
+  fill: }
 
  input[type='checkbox']:checked + label span {
   background-color:#4d5ae5;
   border: none;
-  fill: 
+  fill: #F4F4FD;
 }
 
 .user-privacy-link {
