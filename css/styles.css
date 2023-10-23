@@ -732,6 +732,7 @@ textarea:focus {
 
   border: none;
   fill: #F4F4FD;
+  background-color:#4d5ae5;
 }
 
 .user-privacy-link {
