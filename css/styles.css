@@ -94,7 +94,8 @@ button {
 }
 
 .link .active {
-  position: relative;}
+  position: relative;
+}
   
 .link .active::after {
   position: absolute;
@@ -420,7 +421,6 @@ background-color:  #F4F4FD;
   color: #f4f4fd;
   letter-spacing: 0.02em;
   max-width: 264px;
-  margin-bottom: 16px;
 }
 
 .social-foot {
