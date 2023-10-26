@@ -723,6 +723,7 @@ textarea:focus {
   align-items: center;
   justify-content: center;
   fill: transparent;
+  background-color: #404bbf;
 }
 
 .user-privacy-icon {
