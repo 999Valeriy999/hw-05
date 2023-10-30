@@ -730,7 +730,7 @@ textarea:focus {
   fill:#F4F4FD; 
 }
 
-.input [type="checkbox"]:checked + label::before { 
+.input [type="checkbox"]:checked + label span::before { 
   border-color: #404BBF;
   border: none;
   background-color:#4d5ae5;
