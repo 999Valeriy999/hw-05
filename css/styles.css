@@ -730,10 +730,11 @@ textarea:focus {
   fill:#F4F4FD; 
 }
 
-.input [type="checkbox"]:checked + label{ 
+.input [type="checkbox"]:checked+label{ 
   border-color: #404BBF;
   border: none;
   background-color:#4d5ae5;
+  fill:#ffffff;
 }
 
 .user-privacy-link {
