@@ -733,7 +733,6 @@ textarea:focus {
 .input [type="checkbox"]:checked + label{ 
   border-color: #404BBF;
   border: none;
-  fill: #FFFFFF;
   background-color:#4d5ae5;
 }
 
