@@ -730,7 +730,7 @@ textarea:focus {
   fill:#F4F4FD; 
 }
 
-.input-check:checked + .label-user-privacy-label> .span-user-privacy-span { 
+.check:checked + .user-privacy-label> .user-privacy-span { 
   border-color: #404BBF;
   border: none;
   background-color:#4d5ae5;
