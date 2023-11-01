@@ -723,7 +723,6 @@ textarea:focus {
   align-items: center;
   justify-content: center;
   fill: transparent;
-  background-color: #404bbf;
 }
 
 .user-privacy-span:checked {
@@ -734,19 +733,14 @@ textarea:focus {
   fill:#F4F4FD; 
 }
 
-.input-check:checked + .label-user-privacy-label> .span-user-privacy-span { 
+.check:checked + .user-privacy-label > .user-privacy-span {
   border-color: #404BBF;
   border: none;
   background-color:#404BBF;
   fill:#F4F4FD;
 }
 
-.visually-hidden:checked + .modal-privacy-label > .privacy-span {
-  border-color: #404BBF;
-  border: none;
-  background-color: #404BBF;
-  fill:#F4F4FD;
-}
+
 
 .user-privacy-link {
   color: #4d5ae5;
