@@ -726,6 +726,10 @@ textarea:focus {
   background-color: #404bbf;
 }
 
+.user-privacy-span:checked {
+  fill:#F4F4FD;
+}
+
 .user-privacy-icon {
   fill:#F4F4FD; 
 }
@@ -733,7 +737,14 @@ textarea:focus {
 .input-check:checked + .label-user-privacy-label> .span-user-privacy-span { 
   border-color: #404BBF;
   border: none;
-  background-color:#4d5ae5;
+  background-color:#404BBF;
+  fill:#F4F4FD;
+}
+
+.visually-hidden:checked + .modal-privacy-label > .privacy-span {
+  border-color: #404BBF;
+  border: none;
+  background-color: #404BBF;
   fill:#F4F4FD;
 }
 
