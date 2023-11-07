@@ -723,6 +723,7 @@ textarea:focus {
   align-items: center;
   justify-content: center;
   fill: transparent;
+  gap: 8px;
 }
 
 .user-privacy-span:checked {
