@@ -709,6 +709,7 @@ textarea:focus {
   line-height: 1.17;
   letter-spacing: 0.04em;
   color: #8e8f99;
+  
 }
 
 .user-privacy-span {
@@ -723,6 +724,7 @@ textarea:focus {
   align-items: center;
   justify-content: center;
   fill: transparent;
+  gap: 8px;
  
 }
 
@@ -741,9 +743,8 @@ textarea:focus {
   background-color:#404BBF;
   fill:#F4F4FD;
 }
-.check {
- gap: 8px;
-}
+
+
 
 
 .user-privacy-link {
