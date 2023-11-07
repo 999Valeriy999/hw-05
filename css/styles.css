@@ -732,7 +732,7 @@ textarea:focus {
 
 .user-privacy-icon {
   fill:#F4F4FD;
-  gap: 8px; 
+   
 }
 
 .check:checked + .user-privacy-label > .user-privacy-span {
@@ -741,7 +741,9 @@ textarea:focus {
   background-color:#404BBF;
   fill:#F4F4FD;
 }
-
+.check{
+gap: 8px;
+}
 
 
 .user-privacy-link {
