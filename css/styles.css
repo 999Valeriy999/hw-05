@@ -528,7 +528,7 @@ background-color:  #F4F4FD;
 
 .subscribe-btn {
   font-family: 'Roboto', sans-serif;
-  min-width: 165px;
+  width: 165px;
   height: 40px;
   align-items: center;
   justify-content: center;
