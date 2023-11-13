@@ -421,6 +421,8 @@ background-color:  #F4F4FD;
   color: #f4f4fd;
   letter-spacing: 0.02em;
   width: 265px;
+  margin-block-end:0px;
+  margin-block-start:0px;
 }
 
 .social-foot {
