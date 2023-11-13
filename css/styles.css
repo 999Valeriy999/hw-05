@@ -420,7 +420,7 @@ background-color:  #F4F4FD;
   line-height: 1.5;
   color: #f4f4fd;
   letter-spacing: 0.02em;
-  max-width: 264px;
+  width: 265px;
 }
 
 .social-foot {
@@ -528,7 +528,7 @@ background-color:  #F4F4FD;
 
 .subscribe-btn {
   font-family: 'Roboto', sans-serif;
-  width: 165px;
+  min-width: 165px;
   height: 40px;
   align-items: center;
   justify-content: center;
